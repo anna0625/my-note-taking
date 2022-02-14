@@ -10,11 +10,11 @@
 
 ### Basic Git Workflow
 
-`% git status` <br>
-`% git add {name_file}` <br>
-`% git commit` | `% git commit -m "{message}"` <br>
-`% git pull origin master` <br>
-`% git push origin master` <br>
+`% git status`  
+`% git add {name_file}`  
+`% git commit` | `% git commit -m "{message}"`  
+`% git pull origin master`  
+`% git push origin master`
 
 * **origin** is the name of the remote repository that we cloned from
 * **master** means master branch
