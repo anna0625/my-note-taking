@@ -1,7 +1,5 @@
 # CSS Notes
 
-learnt from _LinkedIn Learning_ & _DEV ED(Youtuber)_
-
 ## Useful Links
 
 * [codeguide](https://codeguide.co/#css-syntax)
@@ -164,3 +162,7 @@ learnt from _LinkedIn Learning_ & _DEV ED(Youtuber)_
   align-self: auto | flex-start | flex-end | center | baseline | stretch;
 }
 ```
+
+---
+
+🤖 from _LinkedIn Learning_ & _DEV ED(Youtuber)_
