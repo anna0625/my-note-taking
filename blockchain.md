@@ -44,7 +44,7 @@
 ### Immutable Ledger
 
 * [addtional reading](https://medium.com/cryptoeconomics-australia/the-blockchain-economy-a-beginners-guide-to-institutional-cryptoeconomics-64bf2f2beec4)
-* Ledgers confirm ownership, identity, status, status.
+* Ledgers confirm ownership, identity, status.
 * At their most fundamental level, ledgers map economic and social relationships.
 
 ### Distributed P2P Network
